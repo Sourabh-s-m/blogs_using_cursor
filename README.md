@@ -21,12 +21,12 @@ Blog management system.
 3. Admin login details
 
    1. email : admin@admin.com
-   2. password : admin@1234
+   2. password : password
 
 4. User login details
 
    1. email : user@user.com
-   2. password : user@1234
+   2. password : password
 
 5. Start the local server (If you are using windows make sure xaamp server is running):
 
